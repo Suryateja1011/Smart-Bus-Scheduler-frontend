@@ -1,0 +1,5 @@
+{
+  "name": "TransitFlow - Realistic Bus Network Visualization",
+  "description": "A high-fidelity visualization of a bus transit network featuring curved roads, realistic bus stands, and smooth animated fleet movement across defined routes.",
+  "requestFramePermissions": []
+}
